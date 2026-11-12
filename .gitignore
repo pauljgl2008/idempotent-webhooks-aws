@@ -1,0 +1,7 @@
+target/
+.terraform/
+*.tfstate*
+*.tfvars
+.env
+.idea/
+*.iml
